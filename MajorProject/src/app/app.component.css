@@ -5,13 +5,14 @@
 }
 .navbar-custom button {
   font-size: smaller;
-  background-color: rgba(164, 164, 165, 0.771);
+  color: black;
+  border: 1px solid sandybrown;
+  background-color: rgb(255, 231, 97);
 }
 .navbar-custom button:hover {
   border: 1px solid black;
-  color: rgb(64, 64, 64);
-  background-color: rgb(164, 164, 165);
-  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  color: rgb(82, 82, 82);
+  box-shadow: rgba(244, 246, 166, 0.599) 0px 8px 24px;
 }
 .Banner-heading {
   color: rgb(255, 255, 255);
